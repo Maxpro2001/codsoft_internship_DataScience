@@ -11,3 +11,7 @@ and data visualization. It uses machine learning model to predict survivors in a
 Task 2 :
 Iris Flower Prediction
 This project uses flower dataset consisting of sepal legth, width along with petal length and width to predict the type of flower.
+
+Task 3 :
+Credit Card Fraud Detection
+Using the credit card dataset we predict if a credit card transaction is genuine or fradulent
