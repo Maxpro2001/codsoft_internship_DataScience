@@ -14,4 +14,8 @@ This project uses flower dataset consisting of sepal legth, width along with pet
 
 Task 3 :
 Credit Card Fraud Detection
-Using the credit card dataset we predict if a credit card transaction is genuine or fradulent
+Using the credit card dataset we predict if a credit card transaction is genuine or fradulent.
+
+Task 4 :
+Sales Prediction
+In this task we predict the sales of a company using different data science techniques from python.
